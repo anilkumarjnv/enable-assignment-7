@@ -1,0 +1,20 @@
+.counter{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button-container button{
+    font-size: 16px;
+  margin: 7px;
+  padding: 12px;
+  cursor: pointer;
+
+}
+.button-container{
+    display:inline-flex;
+}
+.button-container p{
+    font-size:20px;
+
+
+}
